@@ -9,7 +9,11 @@ import uuid
 os.system('git pull')
 os.system('pkg install curl')
 
-logo = (""""\033[132mⓇ1F4Ⓣ\033[1;37m\n""")
+logo = (""""\033[132m___  __  __  ___  ____   __     ___    ___
+   / _ \|  \/  |/ _ \|  _ \  \ \   / / \  |_ _|
+  | | | | |\/| | | | | |_) |  \ \ / / _ \  | |
+  | |_| | |  | | |_| |  _ <    \ V / ___ \ | |
+   \___/|_|  |_|\___/|_| \_\    \_/_/   \_\___|\033[1;37m\n""")
 def ud():
     os.system('clear')
     jalan(logo)
@@ -50,13 +54,13 @@ def o():
     if opt == '1':
         i()
     if opt == '2':
-        os.system('xdg-open https://www.facebook.com/Ummmmaaaaaahh')
+        os.system('xdg-open https://www.facebook.com/OmorDeawan')
         return None
     if opt == '3':
-        os.system('xdg-open https://youtube.com/channel/UCqmAeJg_2YaF9q_zFIxwSlQ')
+        os.system('xdg-open https://youtube.com/@OMORYT1')
         return None
     if opt == '4':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100075160338795')
+        os.system('xdg-open https://www.facebook.com/OM.OR.DE.AW.N')
         
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
@@ -151,7 +155,11 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-logo = ("""\033[132mⓇ1F4Ⓣ\033[1;37m\n""")
+logo = ("""\033[132m___  __  __  ___  ____   __     ___    ___
+   / _ \|  \/  |/ _ \|  _ \  \ \   / / \  |_ _|
+  | | | | |\/| | | | | |_) |  \ \ / / _ \  | |
+  | |_| | |  | | |_| |  _ <    \ V / ___ \ | |
+   \___/|_|  |_|\___/|_| \_\    \_/_/   \_\___|\033[1;37m\n""")
 loop = 0
 oks = []
 cps = []
