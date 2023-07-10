@@ -566,7 +566,7 @@ def i():
         user.append(nmp)
     os.system("clear")
     print(logo)
-    passx = int(input("[*] Enter Password Limit : 1"))
+    passx = int(input("[*] Enter Password Limit : "))
     HamiiID = []
     print("")
     for bilal in range(passx):
