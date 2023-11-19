@@ -2,23 +2,23 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-![logo](https://github.com/✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️/✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm ✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️</h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 ✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️ </h3>
+![logo](https://github.com/✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️/✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm ✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️</h1>
+<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 ✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️ </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra" /> </p>
 
-- 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/EMRAN99EHC/simplified_learner](https://t.me/EMRAN99EHC)
+- 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/OMORVAI10/simplified_learner](https://t.me/OMORVAI10)
 
-- ⚡ Fun fact **I am funny(✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️)😅**
+- ⚡ Fun fact **I am funny(✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝�✔️)😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝�✔️" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️" height="30" width="40" /></a>
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://www.facebook.com/OMOR.VAI.910/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra&show_icons=true&locale=en&layout=compact" alt="✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra&show_icons=true&locale=en&layout=compact" alt="✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra&show_icons=true&locale=en" alt="✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra&show_icons=true&locale=en" alt="✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra&" alt="✮⃝𝑬𝑯𝑪🦋⃟𝙊𝙈𝙊𝙍𝄟⃝😛✔️-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra&" alt="✮⃝🦋⃟𝙊𝙈𝙊𝙍𝄟⃝✔️-pmishra" /></p>
